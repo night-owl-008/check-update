@@ -1,1 +1,1 @@
-console.log("updated");
+document.querySelectorAll('button a').forEach(e => { e.remove() })
